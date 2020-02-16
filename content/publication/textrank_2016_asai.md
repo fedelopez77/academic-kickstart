@@ -1,11 +1,11 @@
 +++
-title = "A Mention-Ranking Model for Abstract Anaphora Resolution"
+title = "Variations of the Similarity Function of TextRank for Automated Summarization"
 
 # Date first published.
-date = "2017-09-01"
+date = "2015-08-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Ana Marasović**", "Leo Born", "Juri Opitz", "Anette Frank"]
+authors = ["Federico Barrios", "**Federico López**", "Luis Argerich", "Rosa Wachenchauzer"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["**Ana Marasović**", "Leo Born", "Juri Opitz", "Anette Frank"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *EMNLP*"
-publication_short = "In *EMNLP*"
+publication = "In *44 JAIIO - ASAI 2015*"
+publication_short = "In *44 JAIIO - ASAI 2015*"
 
 # Abstract and optional shortened version.
-abstract = "Resolving abstract anaphora is an important, but difficult task for text understanding. Yet, with recent advances in representation learning this task becomes a more tangible aim. A central property of abstract anaphora is that it establishes a relation between the anaphor embedded in the anaphoric sentence and its (typically non-nominal) antecedent. We propose a mention-ranking model that learns how abstract anaphors relate to their antecedents with an LSTM-Siamese Net. We overcome the lack of training data by generating artificial anaphoric sentence–antecedent pairs. Our model outperforms state-of-the-art results on shell noun resolution. We also report first benchmark results on an abstract anaphora subset of the ARRAU corpus. This corpus presents a greater challenge due to a mixture of nominal and pronominal anaphors and a greater range of confounders. We found model variants that outperform the baselines for nominal anaphors, without training on individual anaphor data, but still lag behind for pronominal anaphors. Our model selects syntactically plausible candidates and – if disregarding syntax – discriminates candidates using deeper features."
+abstract = "This article presents new alternatives to the similarity function for the TextRank algorithm for automated summarization of texts. We describe the generalities of the algorithm and the different functions we propose. Some of these variants achieve a significative improvement using the same metrics and dataset as the original publication."
 #abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
@@ -39,13 +39,13 @@ selected = true
 #projects = []
 
 # Links (optional).
-url_pdf = "https://www.aclweb.org/anthology/D17-1021.pdf"
-url_preprint = "https://arxiv.org/abs/1706.02256"
-url_code = "https://github.com/amarasovic/neural-abstract-anaphora"
-url_dataset = "https://github.com/amarasovic/abstract-anaphora-data"
+url_pdf = "http://44jaiio.sadio.org.ar/sites/default/files/asai65-72.pdf"
+url_preprint = "https://arxiv.org/abs/1602.03606"
+url_code = "https://github.com/summanlp/textrank"
+url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://vimeo.com/238231072"
+url_video = ""
 url_poster = ""
 url_source = ""
 
