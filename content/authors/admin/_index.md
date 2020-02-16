@@ -72,4 +72,4 @@ user_groups:
 
 I am a Ph.D candidate in [HITS](https://www.h-its.org/) at Heidelberg University. Prior to this, I studied Software Engineering at [University of Buenos Aires](http://www.fi.uba.ar/).
 
-Engineer by curiosity. Nerd by definition. I was captivated by the logical and mathematical algorithmic problems, an amusing and intriguing riddle for me. While working on my thesis, I discovered NLP, which I found totally fascinating due to its relation with texts of any kind and nature. My research interests include learning more expressive representations by exploring non-Euclidean geometries, and graph-based methods for NLP. 
+Engineer by curiosity. Nerd by definition. I was captivated by logical and mathematical algorithmic problems, an amusing and intriguing riddle for me. While working on my thesis, I discovered NLP, which I found totally fascinating due to its relation with texts of any kind and nature. My research interests include learning more expressive representations by exploring non-Euclidean geometries, and graph-based methods for NLP. 
