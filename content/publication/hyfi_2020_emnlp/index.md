@@ -5,7 +5,7 @@ title = "A Fully Hyperbolic Neural Model for Hierarchical Multi-Class Classifica
 date = "2020-10-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Federico López**", "Michael Strube"]
+authors = ["*Federico López*", "Michael Strube"]
 
 # Publication type.
 # Legend:
@@ -39,14 +39,14 @@ selected = true
 #projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/2010.02053.pdf"
+url_pdf = "https://www.aclweb.org/anthology/2020.findings-emnlp.42.pdf"
 url_preprint = "https://arxiv.org/abs/2010.02053"
 url_code = "https://github.com/nlpAThits/hyfi"
 url_dataset = ""
 url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
+url_slides = "https://drive.google.com/file/d/1A8rSI-PU-zOb_2I76bN0D8z0TUDPuXxX/view?usp=sharing"
+url_video = "https://studio.slideslive.com/web_recorder/share/20201026T132900Z__EMNLP__WS21-490__a-fully-hyperbolic-neural-mode?s=06472ac6-b873-4362-975b-44f8480d7410"
+url_poster = "https://drive.google.com/file/d/1gtXj24wPb5_5dF4Q8VduhLFoJPYQ-o7N/view?usp=sharing"
 url_source = ""
 
 # Custom links (optional).
