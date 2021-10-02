@@ -28,11 +28,11 @@ interests:
 education:
   courses:
   - course: PhD Candidate in Computational Linguistics
-    institution: HITS / Heidelberg University
-    year: 2018 - Ongoing
+    institution: HITS / Heidelberg University, Germany
+    year: 2018 - 2021
   - course: Software Engineering
     institution: University of Buenos Aires, Argentina
-    year: 2015
+    year: 2009 - 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

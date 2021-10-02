@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: "Invited Speaker @ Hyperbolic geometry & Data Science Seminar, Heidelberg University, May 2020"
+summary: "Invited Speaker @ Hyperbolic Geometry & Data Science Seminar, Heidelberg University, May 2020"
 abstract:
 
 # Talk start and end times.
